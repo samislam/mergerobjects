@@ -2,7 +2,7 @@
   "name": "mergerobjects",
   "version": "1.0.1",
   "description": "merge multiple objects works perfectly with typescript",
-  "main": "./dist/index.js",
+  "main": "./dist",
   "type": "commonjs",
   "types": "./@types",
   "scripts": {
