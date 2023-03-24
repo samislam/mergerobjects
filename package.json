@@ -1,0 +1,28 @@
+{
+  "name": "mergeobjects",
+  "version": "1.0.0",
+  "description": "merge multiple objects works perfectly with typescript",
+  "main": "./dist/index.js",
+  "type": "commonjs",
+  "types": "./@types",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "npx tsc",
+    "build:dev": "npx tsc -w"
+  },
+  "keywords": [
+    "mergeObjects",
+    "merge",
+    "deep-merge",
+    "merge-deep",
+    "recursive-merge"
+  ],
+  "author": "Islam Yamor",
+  "license": "ISC",
+  "dependencies": {
+    "@types/lodash": "^4.14.191",
+    "lodash": "^4.17.21",
+    "typescript": "^5.0.2",
+    "utility-types": "^3.10.0"
+  }
+}
