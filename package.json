@@ -1,6 +1,6 @@
 {
   "name": "mergerobjects",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "merge multiple objects works perfectly with typescript",
   "main": "./dist/index.js",
   "type": "commonjs",
@@ -17,6 +17,13 @@
     "merge-deep",
     "recursive-merge"
   ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/samislam/mergerobjects"
+  },
+  "bugs": {
+    "url": "https://github.com/samislam/mergerobjects/issues"
+  },
   "author": "Islam Yamor",
   "license": "ISC",
   "dependencies": {
