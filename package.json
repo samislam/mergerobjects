@@ -1,6 +1,6 @@
 {
   "name": "mergerobjects",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "description": "merge multiple objects works perfectly with typescript",
   "main": "./dist/index.js",
   "type": "commonjs",
