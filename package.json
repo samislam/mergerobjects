@@ -1,5 +1,5 @@
 {
-  "name": "mergeobjects",
+  "name": "mergerobjects",
   "version": "1.0.0",
   "description": "merge multiple objects works perfectly with typescript",
   "main": "./dist/index.js",
