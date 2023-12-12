@@ -1,7 +1,8 @@
 {
   "compilerOptions": {
-    "target": "es2016",
+    "target": "ES5",
     "module": "commonjs",
+    "baseUrl": "./src",
     "rootDir": "./src",
     "declaration": true,
     "declarationMap": true,
