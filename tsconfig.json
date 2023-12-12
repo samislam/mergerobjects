@@ -12,5 +12,6 @@
     "strict": true,
     "skipLibCheck": true
   },
-  "exclude": ["./@types"]
+  "exclude": ["./@types"],
+  "include": ["./src/**/*"]
 }
